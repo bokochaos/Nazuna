@@ -1,0 +1,2 @@
+nodemon nazuna.js
+PAUSE
